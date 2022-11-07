@@ -241,6 +241,7 @@ footer {
     line-height: zero;
     column-count: 4;
     column-gap: 0px;
+    font-size: 0;
 }
 
 #photos > img {
